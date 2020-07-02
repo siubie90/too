@@ -102,7 +102,6 @@ die();
 }else{
 echo color("red","-] GAGAL COK!!!\n");
 }
-}else{
 goto setpin;
 }
 }else{
